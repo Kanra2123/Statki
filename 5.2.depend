@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571217535 source:u:\3dg2\28_kinga_snuszka\3d\5.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+	<cstdio>
+	<cctype>
+	<windows.h>
+	<cmath>
+	<string>
+	<ctime>
+
